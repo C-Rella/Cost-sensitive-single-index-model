@@ -1,0 +1,8 @@
+Function: cs_parameter_estimation
+Type: Function
+Title: Cost-sensitive single-index model
+Version: 1.0.0
+Author: Jorge C. Rella
+Description: Cost-sensitive single-index model
+Depends: R (>= 3.2.0)
+Imports: maxLik, np
