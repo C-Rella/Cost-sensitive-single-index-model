@@ -1,4 +1,4 @@
-Function: cs_parameter_estimation
+Function: sim_estimator, cssim_objective_function
 Type: Function
 Title: Cost-sensitive single-index model
 Version: 1.0.0
