@@ -1,4 +1,5 @@
-
+library(maxLik)
+library(np)
 
 sim_estimator <- function(theta, y, x, x_test) {
   k <- ncol(x) 
